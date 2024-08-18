@@ -1,0 +1,12 @@
+{
+  "name": "linkedlists",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Amal Yakubov",
+  "license": "ISC"
+}
